@@ -1,7 +1,7 @@
 # ResNet-Classification
 ## Introduction
 This project trains a Wide ResNet model on specified dataset (100 classes) using PyTorch Lightning and tests it on the test set.
-| **Parameter**          | **Value**                                                                                                    |
+| **Metric**          | **Value/Info**                                                                                                    |
 |------------------------|--------------------------------------------------------------------------------------------------------------|
 | **Model \#Params**     | 63.94M                                                                                                       |
 | **Device**             | P100 on Kaggle                                                                                               |

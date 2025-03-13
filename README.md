@@ -1,15 +1,12 @@
 # ResNet-Classification
 ## Introduction
 This project trains a Wide ResNet model on specified dataset (100 classes) using PyTorch Lightning and tests it on the test set.
-|Basic Settings|Performance|More Info|
-|-|-|-|
-|- Model \#Params: 63.94M
-- Device: P100 on Kaggle
-- Dataset: [Click Here](https://drive.google.com/file/d/1fx4Z6xl5b6r4UFkBrn5l0oPEIagZxQ5u/view?usp=drive_link)|0.94||
-- Model \#Params: 63.94M
-- Device: P100 on Kaggle
-- Dataset: [Click Here](https://drive.google.com/file/d/1fx4Z6xl5b6r4UFkBrn5l0oPEIagZxQ5u/view?usp=drive_link)
-- Test Accurancy: 0.94
+| **Parameter**          | **Value**                                                                                                    |
+|------------------------|--------------------------------------------------------------------------------------------------------------|
+| **Model \#Params**     | 63.94M                                                                                                       |
+| **Device**             | P100 on Kaggle                                                                                               |
+| **Dataset**            | [Click Here](https://drive.google.com/file/d/1fx4Z6xl5b6r4UFkBrn5l0oPEIagZxQ5u/view?usp=drive_link)            |
+| **Test Accuracy**      | 0.94                                                                                                         |
 - StudentID: 113550901
 - Course: 25 Spring, Selected Topics in Visual Recognition using Deep Learning, NYCU
 

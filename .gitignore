@@ -1,7 +1,13 @@
+# Dataset & Results
+kaggle/input/hw1-dataset/data/*
+kaggle/working/checkpoints/*
+results/*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *$py.class
+lightning_logs/
 
 # C extensions
 *.so

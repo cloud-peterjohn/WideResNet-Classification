@@ -19,5 +19,5 @@ pip install requirements.txt
 ```
 Run
 ```python
-python train.py
+python main.py
 ```
